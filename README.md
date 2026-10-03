@@ -14,7 +14,7 @@ Hi, I'm **Alaa Mostafa Zedan** 👨🏻‍💻
 
 <br>
 
-<img align="right" alt="Dodge Challenger" height="320" width="200" src="https://d26e3f10zvrezp.cloudfront.net/Gallery/6237a059-686d-4670-87fd-ff8a758507d8-1024x576.webp" />
+<img align="right" alt="Dodge Challenger" height="350" width="300" src="https://d26e3f10zvrezp.cloudfront.net/Gallery/6237a059-686d-4670-87fd-ff8a758507d8-1024x576.webp" />
 
  - 📫 How to reach me: [3laa.m.zedan@gmail.com](mailto:3laa.m.zedan@gmail.com)
  - 🔗 LinkedIn: [3laa-zedan-29b547361](https://linkedin.com/in/3laa-zedan-29b547361)
