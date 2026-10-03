@@ -14,14 +14,14 @@ Hi, I'm **Alaa Mostafa Zedan** 👨🏻‍💻
 
 <br>
 
-<img align="right" alt="Dodge Challenger" height="220" src="https://d26e3f10zvrezp.cloudfront.net/Gallery/6237a059-686d-4670-87fd-ff8a758507d8-1024x576.webp" />
+<img align="right" alt="Dodge Challenger" height="220" src="https://i.postimg.cc/mD83W43k/Dodge-Challenger.jpg" />
 
  - 📫 How to reach me: [3laa.m.zedan@gmail.com](mailto:3laa.m.zedan@gmail.com)
  - 🔗 LinkedIn: [3laa-zedan-29b547361](https://linkedin.com/in/3laa-zedan-29b547361)
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=3laamostafa" alt="3laamostafa" /> </p>
+ <p align="left"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3laamostafa&count_bg=%23795548&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views" /> </p>
 
 <br>
 
@@ -31,7 +31,7 @@ Hi, I'm **Alaa Mostafa Zedan** 👨🏻‍💻
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" title="C#"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" title=".NET Core / ASP.NET"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL / MS SQL Server"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" title="Visual Studio"></code> <!-- رابط الصورة الجديد والمحدث هنا -->
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" title="Visual Studio"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="VS Code"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3"></code>
